@@ -1,0 +1,49 @@
+body {
+    background-color: #121212;
+    margin: 0;
+    padding: 24px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.icono {
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    left: 57%;
+}
+
+.nrtbno {
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    left: 45%;
+    top: 40px;
+}
+
+.advertencia {
+    max-width: 600px;
+    margin: 220px auto 0;
+}
+
+.advertencia img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
