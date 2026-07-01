@@ -1,4 +1,4 @@
-NBLP Licence
+NBLP Licence 1.0.0
 
 Copyright <YEAR>2026 nortebueno
 
